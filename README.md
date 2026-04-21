@@ -60,3 +60,6 @@ Finally, go back to the original `IIT-JEE-Materials` repository on GitHub. You w
 
 ## ⚠️ Disclaimer
 All materials aggregated in this repository are strictly for educational purposes and non-commercial study aid. Copyrights of the respective PDFs, mock tests, and modules belong to their original publishers, authors, and coaching institutes.
+
+### By
+Rishab Nayak - B.E. CS(AIML) @ R.V.College of Engineering, Bangalore
