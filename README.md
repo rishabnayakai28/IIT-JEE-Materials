@@ -12,8 +12,9 @@ The repository features comprehensive chapters, physics problem banks, organic c
 
 > [!NOTE]
 > **Large Files Handling:** 
-> Due to GitHub's file size limits, any individual PDF file larger than `50 MB` is currently stored locally in a `Large_Files_Ignored/` directory and is excluded from this remote repository to maintain a lean tracking history.
+> 1. Due to GitHub's file size limits, any individual PDF file larger than `50 MB` is currently stored locally in a `Large_Files_Ignored/` directory and is excluded from this remote repository to maintain a lean tracking history.
 > Access these files with this link : https://drive.google.com/drive/folders/1GOOU_X6_zFc272Jq6jQ7RAebQO04gBo7?usp=sharing
+> 2. If any file asks for password try with @HeyitsyashXD
 
 ---
 
